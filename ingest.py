@@ -120,3 +120,7 @@ if __name__ == "__main__":
             store_in_chromadb(chunks, chunk_metas)
 
     print("\nIngestion complete! Your PDFs are now stored in ChromaDB.")
+<<<<<<< HEAD
+=======
+
+>>>>>>> 04ed9eacdf6716f955a862a731371d2631c9ee9a

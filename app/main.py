@@ -49,3 +49,7 @@ def read_root():
         "week_1":  "POST /ingest/upload  — Upload and ingest a course PDF",
         "week_2":  "POST /tutor/ask      — Ask the AI tutor a question",
     }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 04ed9eacdf6716f955a862a731371d2631c9ee9a

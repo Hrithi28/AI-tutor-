@@ -49,3 +49,7 @@ class AskResponse(BaseModel):
     answer: str
     sources: List[SourceCitation]
     model_used: str
+<<<<<<< HEAD
+=======
+
+>>>>>>> 04ed9eacdf6716f955a862a731371d2631c9ee9a

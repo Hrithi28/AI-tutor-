@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """
 app/rag.py — Week 2: RAG Core Logic
 --------------------------------------
@@ -161,3 +162,6 @@ def run_rag_query(question: str, top_k: int = TOP_K) -> dict:
         "sources":    sources,
         "model_used": LLM_MODEL,
     }
+=======
+
+>>>>>>> 04ed9eacdf6716f955a862a731371d2631c9ee9a
