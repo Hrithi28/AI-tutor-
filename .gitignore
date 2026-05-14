@@ -1,5 +1,30 @@
+# Virtual environment
 venv/
+.venv/
+
+# Environment variables (never commit secrets)
 .env
+
+# Python cache
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ChromaDB persisted data (large binary files — re-generate via ingest.py)
 chroma_db/
-*.pyc 
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
